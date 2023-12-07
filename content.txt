@@ -5,5 +5,5 @@ Hellgrün
 Dunkelgrün
 Blau
 Gelb
-
+Magenta
 
